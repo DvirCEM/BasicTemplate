@@ -1,4 +1,3 @@
-````markdown
 # BasicTemplate
 
 A minimal C# console application template that uses an explicit `Program` class and `Main` method, with implicit usings disabled and nullable reference types enabled.
@@ -23,7 +22,7 @@ Clone this repository and navigate into it:
 ```bash
 git clone https://github.com/DvirCEM/BasicTemplate.git
 cd BasicTemplate
-````
+```
 
 ## Usage
 
@@ -61,7 +60,3 @@ Contributions, issues, and feature requests are welcome! Feel free to open an is
 ## License
 
 If you’d like to add a license, include a `LICENSE` file in the root of the repository. Otherwise, this project is unlicensed by default.
-
-```
-::contentReference[oaicite:0]{index=0}
-```
